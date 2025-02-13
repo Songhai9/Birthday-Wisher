@@ -56,3 +56,6 @@ python main.py
 
 ## Notes
 - Customize the letter templates in the `letter_templates` folder to suit your style.
+
+
+This project is a part of my [Python REST API Programming](https://github.com/Songhai9/API-Programming)
